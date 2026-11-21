@@ -17,4 +17,4 @@ Con laptop
 
 ## External hardware
 
-N/A
+no se ocupa
